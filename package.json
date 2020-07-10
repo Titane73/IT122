@@ -1,0 +1,23 @@
+{
+  "name": "it222",
+  "version": "1.0.0",
+  "description": "IT222 App",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Titane73/it222.git"
+  },
+  "keywords": [
+    "it122",
+    "app"
+  ],
+  "author": "Ti Hall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Titane73/it222/issues"
+  },
+  "homepage": "https://github.com/Titane73/it222#readme"
+}
