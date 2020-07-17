@@ -19,5 +19,16 @@
   "bugs": {
     "url": "https://github.com/Titane73/it222/issues"
   },
-  "homepage": "https://github.com/Titane73/it222#readme"
+  "homepage": "https://github.com/Titane73/it222#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^7.4.0",
+    "mocha": "^8.0.1",
+    "nodemon": "^2.0.4"
+  }
 }
