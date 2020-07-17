@@ -5,9 +5,12 @@
     <title>Ti Hall - IT122 App</title>
 </head>
 <body>
-
+    <h1>Doctor Who</h1>
     {{#each doctor}}
-    <li><a href='/details?doc={{version}}'>{{version}}</a></li>
+    <ul>
+        <li><a href='/details?doc={{version}}'>The {{version}} Doctor</a></li>
+    </ul>
+    
     {{/each}}
 
 </body>
